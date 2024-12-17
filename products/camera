@@ -1,0 +1,56 @@
+---
+layout: default
+title: Products
+permalink: /products/camera/
+nonav: true
+---
+
+<div class="row">
+
+  <div class="col">
+
+      <h1>Camera</h1>
+
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-12">
+
+    <h2>Minikamera, BOXmime kompakt säkerhetskamera för inomhusbruk med 1080P HD-video, övervakningskamera med rörelsedetektering och nattseende för familj</h2>
+
+    <br>
+
+    <img src="https://m.media-amazon.com/images/I/71H12MEwGkL._AC_SL1500_.jpg" style="max-width: 100%; width: 300px;">
+
+    <br>
+
+    <a href="https://www.amazon.se/dp/B0B154YZKX" target="_blank">Amazon SE</a>
+
+    <p style="width:100%">230 kr</p>
+
+    <hr/>
+
+  </div>
+
+  <div class="col-12">
+
+    <h2>Gurdfran 4K PoE Övervakningskamerasystem Inomhus Utomhus, CCTV-säkerhetskamerasystem med 8x 8MP Bullet IP-kamera och 16CH 4TB NVR, 30M IR Mörkerseende</h2>
+
+    <br>
+
+    <img src="https://m.media-amazon.com/images/I/71GxpEZvB6L._AC_SX679_.jpg" style="max-width: 100%; width: 300px;">
+
+    <br>
+
+    <a href="https://www.amazon.de/dp/B099PY87D8" target="_blank">Amazon DE</a>
+
+    <p style="width:100%">5000 kr</p>
+
+    <hr/>
+
+  </div>
+
+</div>
